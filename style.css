@@ -1,0 +1,47 @@
+.cards {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: center;
+
+  padding: 0 20px;
+}
+
+div {
+  padding: 70px 50px;
+
+  margin: 20px;
+
+  border-radius: 5%;
+
+  color: white;
+
+  font-weight: bold;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.red {
+  background: red;
+}
+
+.yellow {
+  background: yellow;
+}
+
+button {
+  background: white;
+
+  border: solid 1px black;
+
+  padding: 10px;
+
+  border-radius: 10px;
+}
